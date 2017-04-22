@@ -3,7 +3,7 @@ package adapter;
 
 import adapter.MediaPlayer.AudioPlayer;
 
-public class Adapter {
+public class AdapterPatternDemo {
 
     public static void main(String[] args) {
         
